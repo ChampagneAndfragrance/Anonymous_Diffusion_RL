@@ -1,5 +1,5 @@
 # Diffusion_RL
-This repo has the code and suplementary materials of our 2025 AAMAS submission "Diffusion-Reinforcement Learning Hierarchical Motion Planning in
+This repo has the code and suplementary materials of our RAL submission "Diffusion-Reinforcement Learning Hierarchical Motion Planning in
 Adversarial Multi-agent Games".
 ## Code Introduction
 * Our code is mainly in the folder `red_rl_diffusion`.
